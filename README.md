@@ -1,7 +1,7 @@
 This Sass Tutorial is provided by DesignIsOrion.
 It covers the following topics at a minimum:
 
-- Setup Sass Compiler extension
+- Setup Sass Compiler extension (VSCode)
 - Folder Structure
 - How to use the compiler
 - Variables
